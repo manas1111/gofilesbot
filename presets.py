@@ -4,7 +4,8 @@ class Presets(object):
     CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> {}\n\n<b>Format:</b> {}\n<b>Size:</b> {}"
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
     ASK_PM_TEXT = "<b>Click the below button</b>"
-    WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can help you getting movies from</code> SiC Uploads directly here. " \\
+    WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can help you getting movies from</code> SiC Uploads directly here. " \
+    
                    "<code>Maintainer :- Chaitanya Gupta</code>😉\n\n" \
                    "<b>Team</b><b> SiC</b>"
     CLEAN_CHAT_MSG = "⚠️ <b>Deleting all messages..</b>"
