@@ -6,7 +6,7 @@ class Presets(object):
     ASK_PM_TEXT = "<b>Click the below button</b>"
     WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can help you getting movies from</code> SiC Uploads directly here. " \
                    "<code>Maintainer :- Chaitanya Gupta</code>😉\n\n" \
-                   "<b>Team</b><b>SiC</b>"
+                   "<b>Team</b><b> SiC</b>"
     CLEAN_CHAT_MSG = "⚠️ <b>Deleting all messages..</b>"
     MSG_FOR_PIN = "<b>For getting medias from here..</b>\n\n🔛 <code>Please start</code> @{} <code>in PM\n\n" \
                   "Send the exact Movie/show name.\n\n🔊 I'll reply the file in PM if available in UPLOADS channel !</code>"
